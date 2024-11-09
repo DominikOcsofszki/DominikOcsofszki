@@ -6,7 +6,7 @@ Hello! I’m Dominik Ocsofszki, a final-year Computer Science student at Bonn-Rh
 
 - 🧑‍🎓 Education: Final-year Computer Science student at Bonn-Rhein-Sieg University of Applied Sciences.
 - 💻 Interests: Software development, language servers and technical problem-solving.
-- 🛠 Skills: Proficient in Java, Python, JavaScript nad TypeScript
+- 🛠 Skills: Proficient in Java, Python, JavaScript and TypeScript
 - 🌐 Projects: Engaged in developing a LSP-compatible language server as part of my thesis.
 - ⚡ Frameworks: Experienced with Angular and Spring Boot, with foundational knowledge in Docker, Node.js, PyTorch, and Vaadin.
 - 🔧 Tools & Technologies: Enthusiast of NeoVim, Tree-Sitter, and the Language Server Protocol (LSP).
