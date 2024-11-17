@@ -11,3 +11,5 @@ Hello! I’m Dominik Ocsofszki, a final-year Computer Science student at Bonn-Rh
 - ⚡ Frameworks: Experienced with Angular and Spring Boot, with foundational knowledge in Docker, Node.js, PyTorch, and Vaadin.
 - 🔧 Tools & Technologies: Enthusiast of NeoVim, Tree-Sitter, and the Language Server Protocol (LSP).
 - 🔍 Other Knowledge: REST APIs, JSON, Bash/Zsh, jq, Jenkins, Maven, and Git.
+
+![Wakapi week](https://github-readme-stats.vercel.app/api/wakatime?username=dominikocsofszki&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&layout=compact)
